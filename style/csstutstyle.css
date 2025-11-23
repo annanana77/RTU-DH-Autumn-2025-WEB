@@ -1,15 +1,32 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "consolas", sans-serif;
     background-color: lightcyan;
 }
 
 h1 {
     text-align: center;
     color: darkorchid;
+    font-family: "press Start 2P", "consolas", sans-serif;
 }
 p {
     font-size: 16px;
     line-height: 1.5;
     color: dimgray;
-    background-color: lavenderblush;
+    background-color: goldenrod;
+    border-style: outset;
+    border-width: 5px;
+    border-color: black;
+    padding: 10px;
+
+}
+
+#p1 {
+    font-size: 20px;
+    color: darkblue;
+    background-color: lightyellow;
+}
+.p2 {
+    font-size: 14px;
+    color: darkgreen;
+    background-color: lightgray;
 }
